@@ -1,4 +1,4 @@
-baseURL = "https://starfighter.xyz"
+baseURL = "https://www.starfighter.xyz"
 title   = "Starfighter"
 languageCode = "en-us"
 theme = "hello-friend-ng"
