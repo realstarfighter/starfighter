@@ -14,7 +14,7 @@ copyright = ""
 # WD
 disablePathToLower = true 
 
-# googleAnalytics = ""
+googleAnalytics = "G-HYXB8NY72K"
 # disqusShortname = ""
 
 archetypeDir = "archetypes"
