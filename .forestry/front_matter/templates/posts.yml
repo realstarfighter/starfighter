@@ -37,7 +37,7 @@ fields:
     required: false
     options: []
     source:
-      type: simple
+      type: pages
       section: posts
       file: 
       path: 
