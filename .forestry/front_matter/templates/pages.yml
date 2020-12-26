@@ -24,3 +24,4 @@ fields:
   label: Images
 pages:
 - content/about.md
+- content/posts/learning-looker.md
